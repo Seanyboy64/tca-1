@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.halloween{
+  font-size: 120%;
+  color:orange;
+  background-color:purple ;
+  text-align:center;
+}
+.haunted{
+ color:orange;
+  background-color:purple ;
+}
+.spooky{
+  height: 450px;
+  width: 500px;
+filter: grayscale(100%);filter: saturate(7)">
+}
