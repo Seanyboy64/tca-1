@@ -59,9 +59,8 @@ margin-right: auto;
 
 .corn{
   filter: saturate(7);
-  width:250px;
-  height:200px;
 margin:left;
+  text-align: center;
 }
 
 .house {
