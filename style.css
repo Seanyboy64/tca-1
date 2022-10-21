@@ -51,3 +51,20 @@ table, th, td {
 margin-left: auto;
 margin-right: auto;
 }
+
+.pumpkin_image {
+  text-align: center;
+}
+.blur{filter: brightness(250%);}
+
+.corn{
+  filter: saturate(7);
+  width:250px;
+  height:200px;
+margin:left;
+}
+
+.house {
+  filter: grayscale(100%);
+  text-align:center;
+      }
